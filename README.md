@@ -1,1 +1,1 @@
-https://vlp-tutorial.github.io/
+https://DAI-CL.github.io/
