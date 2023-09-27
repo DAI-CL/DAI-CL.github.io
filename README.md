@@ -1,1 +1,1 @@
-https://DAI-CL.github.io/
+https://dai-cl.github.io/
