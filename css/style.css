@@ -2250,6 +2250,7 @@ select[multiple].navbar-form .btn {
 }
 .navbar-default {
   background-color: #ecf0f1;
+  background: url(../2023/img/intro/banner-designed.jpg);
 }
 .navbar-default .navbar-brand {
   color: #34495e;

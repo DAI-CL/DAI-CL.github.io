@@ -24,9 +24,10 @@ body, html {
 
 .content-section-c {
 	border-top: 1px solid #32465A;
+	background: url(../img/intro/banner-designed.jpg);
 	border-bottom: 1px solid #32465A;
 	background-color: #34495e;
-	padding: 90px 0;
+	padding: 0px 0;
 }
 
 .descp{
